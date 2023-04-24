@@ -5,16 +5,13 @@ body{
 
 .para1{
 	background-color: white;
-/* 	padding:10px; */
 	display:flex;
 	justify-content:space-between;
-/* 	margin-top:unset; */
 }
 
 
 .para2{
 	background-color: white;
-/* 	padding:10px; */
 	margin-top:20px;
 	display:flex;
 	justify-content:space-between;
