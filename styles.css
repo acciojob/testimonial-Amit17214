@@ -23,6 +23,7 @@ body{
 .para1 p:last-child{
 	margin-right:10px;
 	margin-top:30px;
+	font-style:italic;
 }
 
 .para2 p:first-child{
@@ -31,4 +32,5 @@ body{
 .para2 p:last-child{
 	margin-right:10px;
 	margin-top:30px;
+	font-style:italic;
 }
